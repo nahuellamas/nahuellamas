@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @nahuellamas
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning TypeScript and React JS
 - 💞️ I’m looking to collaborate on a JOB
-- 📫 How to reach me ...
+- 📫 Nahuellamas@gmail.com
 
 <!---
 nahuellamas/nahuellamas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
