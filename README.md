@@ -1,4 +1,4 @@
-Soy Full Stack Developer con más de 4 años de experiencia construyendo aplicaciones web escalables de punta a punta.
+Soy Full Stack Developer con más de 5 años de experiencia construyendo aplicaciones web escalables de punta a punta.
 Trabajé desarrollando plataformas IoT en tiempo real dispositivos conectados (sectores Agro, Gas y Utilities), CMS de alto tráfico para medios digitales con millones de usuarios diarios, y lideré proyectos full stack para clientes internacionales.
 
 Mi stack principal es React, Next.js y NestJS, pero me siento igual de cómodo en frontend, backend o full stack según lo que el proyecto necesite.
